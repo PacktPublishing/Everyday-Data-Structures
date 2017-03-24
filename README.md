@@ -1,7 +1,7 @@
 # Everyday Data Structures
 This is the code repository for [Everyday Data Structures](https://www.packtpub.com/application-development/everyday-data-structures?utm_source=github&utm_medium=repository&utm_campaign=9781787121041), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-f you want to learn different data structures and their real-world applications quickly through practical examples, then Everyday Data Structures is for you. This book can introduce you to new data structures and their potential applications through examples in languages common to mobile software development on the most popular platforms. The examples are presented with real-world concepts using language that everyone will understand.
+If you want to learn different data structures and their real-world applications quickly through practical examples, then Everyday Data Structures is for you. This book can introduce you to new data structures and their potential applications through examples in languages common to mobile software development on the most popular platforms. The examples are presented with real-world concepts using language that everyone will understand.
 
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
